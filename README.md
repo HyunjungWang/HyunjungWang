@@ -39,7 +39,7 @@ My name is Hyunjung (Jules) <br>
 
 ---  
 ## 🌱 currently learning ...
-- Improving **German**
+- Improving German
 - Deepening skills in Data Science to better understand downstream analytics use cases
 - Learning Infrastructure as Code (IaC) tools for automating cloud resources
 - Studying Kubernetes for scalable data pipeline deployment
