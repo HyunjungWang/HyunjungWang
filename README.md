@@ -4,8 +4,10 @@
 My name is Hyunjung (Jules) <br>
 🎓 M.Sc. in Artificial Intelligence at Friedrich-Alexander-Universität Erlangen-Nürnberg <br>
 💼 Data Engineer & Data Analyst | Passionate about building robust, scalable data pipelines and turning data into actionable insights <br>
-📍 Based in Erlangen, Germany <br><br>
+📍 Based in Essen, Germany <br><br>
+
 📧 hyunjung.jules.wang@gmail.com <br>
+🌐 [Website](https://v0-hyunjungwang.vercel.app) <br>
 🔗 [My GitHub Portfolio](https://github.com/HyunjungWang)
 
 
